@@ -1,6 +1,7 @@
 # iOnePass Library Documents
 
 (주)이데아텍의 i-One Pass 2차인증 종합 솔루션의 라이브러리에 대한 가이드를 관리하는 저장소 입니다.
+최근 업데이트 일자 : 2020-05-31
 
 ## 01. Android
 ###   iOnePassLib_Android_01.개발가이드_20200531_Ver1.2
